@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+.small-flag {
+    width: 50px;   
+}
+
+.mr-1 {
+    margin-right: 5px;
+}
+
+.wHYlTd {
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    line-height: 22px; 
+    margin-top: 350px;
+}
